@@ -10,5 +10,5 @@
 </p>
 
 ### `✆` Sosmed
-- [x] [`Instagram`](https://www.instagram.com/yusuf.dkv)
-- [x] [`Whatsapp`](https://wa.me/6283873115706)
+- [x] [Instagram](https://www.instagram.com/yusuf.dkv)
+- [x] [Whatsapp](https://wa.me/6283873115706)
