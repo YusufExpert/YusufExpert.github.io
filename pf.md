@@ -1,7 +1,8 @@
 <p align="center">
 <a href="#"><img src="https://raw.githubusercontent.com/YusufExpert/YusufExpert.github.io/master/thumbnail.jpg" alt="Image" height="250"></a>
-<h1 align="center">Preset Jedag Jedug</h1>
+<h1 align="center"><b>Preset Jedag Jedug</b></h1>
 </p>
+
 > **$0**
 
 <p align="center">
