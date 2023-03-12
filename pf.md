@@ -1,6 +1,6 @@
 <p align="center">
 <a href="#"><img src="https://raw.githubusercontent.com/YusufExpert/YusufExpert.github.io/master/thumbnail.jpg" alt="Image" height="250"></a>
-<b><h1 align="center">Preset Jedag Jedug</h1></b>
+<p align="center"><b>Preset Jedag Jedug</b></p>
 </p>
 
 <p align="center">
@@ -8,5 +8,5 @@
 </p>
 
 ### Sosmed
-- [x] [Instagram](https://www.instagram.com/yusuf.dkv)
-- [x] [Whatsapp](https://wa.me/6283873115706)
+- [x] [**`Instagram`**](https://www.instagram.com/yusuf.dkv)
+- [x] [**`Whatsapp`**](https://wa.me/6283873115706)
