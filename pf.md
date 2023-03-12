@@ -7,5 +7,5 @@
 </p>
 
 **Sosmed:**
-- [**`Instagram`**](https://www.instagram.com/yusuf.dkv)
-- [**`Whatsapp`**](https://wa.me/6283873115706)
+- [`Instagram`](https://www.instagram.com/yusuf.dkv)
+- [`Whatsapp`](https://wa.me/6283873115706)
