@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: https://ogp.me/ns#">
+    <head>
+        <title>Last of Craft</title>
+<meta property="og:title" content="Last of Craft - Season 2" />
+<meta property="og:type" content="video.movie" />
+<meta property="og:url" content="ServerBedrock" />
+<meta property="og:image" content="https://raw.githubusercontent.com/YusufExpert/YusufExpert.github.io/master/medias/thumbnail.jpg" />
+<meta property="og:description" 
+content="Minecraft Bedrock Server Multiplayer - v1.19.63" />
+    </head>
+</html>
+
 <p align="center">
 <a href="#"><img src="https://raw.githubusercontent.com/YusufExpert/YusufExpert.github.io/master/thumbnail.jpg" alt="Image" height="250"></a></p>
 <p align="center"><b>Preset Jedag Jedug</b></p>
